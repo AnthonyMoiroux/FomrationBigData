@@ -1,6 +1,6 @@
 trait ModelCommande {
 
-  def revenueCommande() : Double=???
+ // def revenueCommande() : Double=???
 
-  def taxeCommande () : Double= ???
+//  def taxeCommande () : Double= ???
 }
